@@ -16,6 +16,7 @@
 		A909709E2215392E0013F97A /* NumberKeyboardController.m in Sources */ = {isa = PBXBuildFile; fileRef = A90970992215392D0013F97A /* NumberKeyboardController.m */; };
 		A909709F2215392E0013F97A /* NumberKeyboardController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A909709C2215392E0013F97A /* NumberKeyboardController.xib */; };
 		A9309FA1221808C300237B55 /* BlankKeyboard.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A9309FA0221808C300237B55 /* BlankKeyboard.framework */; };
+		A9309FA3221809AA00237B55 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = A9309FA2221809AA00237B55 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		A909709B2215392E0013F97A /* NumberKeyboardController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NumberKeyboardController.h; sourceTree = "<group>"; };
 		A909709C2215392E0013F97A /* NumberKeyboardController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = NumberKeyboardController.xib; sourceTree = "<group>"; };
 		A9309FA0221808C300237B55 /* BlankKeyboard.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = BlankKeyboard.framework; path = Demo/BlankKeyboard.framework; sourceTree = "<group>"; };
+		A9309FA2221809AA00237B55 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -50,6 +52,7 @@
 		A9097060221538380013F97A = {
 			isa = PBXGroup;
 			children = (
+				A9309FA2221809AA00237B55 /* README.md */,
 				A9097083221538FF0013F97A /* Demo */,
 				A909706B221538380013F97A /* Products */,
 				A90970A02215396B0013F97A /* Frameworks */,
@@ -150,6 +153,7 @@
 			files = (
 				A9097091221539000013F97A /* LaunchScreen.storyboard in Resources */,
 				A909708E221539000013F97A /* Assets.xcassets in Resources */,
+				A9309FA3221809AA00237B55 /* README.md in Resources */,
 				A909708C221538FF0013F97A /* Main.storyboard in Resources */,
 				A909709F2215392E0013F97A /* NumberKeyboardController.xib in Resources */,
 			);
